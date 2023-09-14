@@ -26,6 +26,5 @@ Tic-tac-toe is a classic game designed and developed in Kotlin. This application
     <td align="center"><img src="https://github.com/AnmarSammour/Tic-tac-toe/assets/112755848/a43917b8-c498-43a8-b1ff-d164d71a7a3b" alt="Screenshot 9" width="200"/></td>
   </tr>
 </table>
-
 ## Video 📽️
 [Watch Tic-tac-toe in action](https://github.com/AnmarSammour/Tic-tac-toe/assets/112755848/a0c8d7cd-5879-4d61-adde-ccb0c9f04f4e)
